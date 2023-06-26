@@ -8,3 +8,6 @@ print('123\n\n456')
 
 print('123', end = '\n')
 print('456')
+
+print('123', end = ' ')
+print('456')
